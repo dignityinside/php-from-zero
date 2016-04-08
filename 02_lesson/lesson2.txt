@@ -1,0 +1,13 @@
+Локальный веб-сервер:
+
+Denwer
+http://www.denwer.ru/
+
+OpenServer
+http://open-server.ru/
+
+Xampp
+https://www.apachefriends.org/ru/index.html
+
+WampServer
+http://www.wampserver.com/ru/
