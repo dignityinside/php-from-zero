@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Объединение строк в PHP</title>
+    <title>Операторы присваивания в PHP</title>
 </head>
 <body>
     <?php
