@@ -1,0 +1,26 @@
+Sublime Text (платный)
+http://www.sublimetext.com/2
+
+PHPStrom (платный)
+http://www.jetbrains.com/phpstorm/download/
+
+Zend Studio (платный)
+http://www.zend.com/en/products/studio/downloads
+
+PHPDesigner (платный)
+http://www.mpsoftware.dk/downloads.php
+
+Aptana Studio
+http://www.aptana.com/products/studio3/download
+
+Komodo Edit
+http://komodoide.com/download/
+
+Notepad++
+http://notepad-plus-plus.org/download
+
+Brackets
+http://brackets.io
+
+Atom
+https://atom.io

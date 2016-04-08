@@ -1,2 +1,5 @@
-# php-from-zero
-Source code of youtube lessons "PHP from Zero".
+# PHP с нуля
+Исходный код Youtube уроков "PHP с нуля".
+
+Плейлист уроков:
+https://www.youtube.com/playlist?list=PLqlJrgwq8Az8NrRPVtR4WTdHKvwyVyYiF
