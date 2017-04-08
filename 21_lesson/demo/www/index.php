@@ -17,7 +17,7 @@
 <!-- <form action="send.php" method="get"> -->
 <form action="send.php" method="post">
     <p>Ваше имя: <input type="text" name="name"/></p>
-    <p><input type="submit" value="Отправить"/></p>
+    <p><input type="submit" name="send" value="Отправить"/></p>
 </form>
 </body>
 </html>
